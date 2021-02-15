@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Pocket Tale</string>
+    <string name="title_overview">Overview</string>
+    <string name="title_Transaction">Tx</string>
+    <string name="title_summaries">Summaries</string>
+    <string name="title_features">Features</string>
+    <string name="title_menu">Menu</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--  Overview  -->
+    <string name="title_overview_actBar"><b>Overview</b></string>
+
+    <!--  Transaction  -->
+    <string name="title_tx_actBar"><b>Transaction</b></string>
+
+    <!--  Summaries  -->
+    <string name="title_sum_actBar"><b>Summaries</b></string>
+
+    <!--  Features  -->
+    <string name="title_features_actBar"><b>Features</b></string>
+
+    <!--  Menu  -->
+    <string name="title_menu_actBar"><b>Menu</b></string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+</resources>
