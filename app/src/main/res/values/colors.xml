@@ -9,4 +9,15 @@
     <color name="white">#FFFFFFFF</color>
     <color name="green">#6DD118</color>
     <color name="colorVariant">#4C950F</color>
+
+<!--  Button edit  -->
+    <color name="orangeEditIc">#FB782D</color>
+    <color name="orangeEditBtn">#ABFFD3B9</color>
+
+<!--  Card  -->
+    <color name="cardRed">#B9FF9393</color>
+    <color name="txtRed">#FF3C3C</color>
+    <color name="cardGreen">#B983F888</color>
+    <color name="txtGrey">#858585</color>
+    <color name="greenText">#4C9110</color>
 </resources>

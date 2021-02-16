@@ -28,4 +28,11 @@
     values-round/strings.xml for round devices.
     -->
     <string name="hello_world">Hello Square World!</string>
+    <string name="editbtn">Edit</string>
+    <string name="cash_txt">Cash</string>
+    <string name="thbCurrency">THB</string>
+    <string name="bankAccTxt">Bank Account</string>
+    <string name="revenueTxt">Revenue Receivable</string>
+    <string name="debtTxt">Debt</string>
+    <string name="totalTxt">Total</string>
 </resources>
